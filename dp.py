@@ -1,1 +1,1 @@
-print("Greeetings from the 4it")
+print("Greeetings from the 4it solution")
